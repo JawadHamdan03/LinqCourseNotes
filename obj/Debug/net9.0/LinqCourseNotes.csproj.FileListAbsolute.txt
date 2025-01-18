@@ -1,0 +1,14 @@
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\bin\Debug\net9.0\LinqCourseNotes.exe
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\bin\Debug\net9.0\LinqCourseNotes.deps.json
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\bin\Debug\net9.0\LinqCourseNotes.runtimeconfig.json
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\bin\Debug\net9.0\LinqCourseNotes.dll
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\bin\Debug\net9.0\LinqCourseNotes.pdb
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\LinqCourseNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\LinqCourseNotes.AssemblyInfoInputs.cache
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\LinqCourseNotes.AssemblyInfo.cs
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\LinqCourseNotes.csproj.CoreCompileInputs.cache
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\LinqCourseNotes.dll
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\refint\LinqCourseNotes.dll
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\LinqCourseNotes.pdb
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\LinqCourseNotes.genruntimeconfig.cache
+C:\Users\hamda\Desktop\Jawad\Projects\mainSolution\LinqCourseNotes\obj\Debug\net9.0\ref\LinqCourseNotes.dll
