@@ -122,6 +122,33 @@ public class Program
         print_LinqQry(qr);
 
     }
+    public static void UsingAggregateFunctions()
+    {
+        // Count() => returns number(int32) of elements of a sequence  
+        int qr = cars.Count();
+        Console.WriteLine(qr);
+        
+        //Count(expression) => returns number(int32) of elements in sequence that matches the lambda expreission criteria
+        int qr2 = cars.Count(c => c.manufYear>2015);
+        Console.WriteLine(qr2);
+
+        //CountBy() => new to .NET 9  => returns number of elements for each group => IEnumrable<int,int>
+        var qr3 = cars.CountBy(c => c.model);
+        foreach (var c in qr3) {
+            Console.WriteLine(c.Key +" ------> " +c.Value);
+        }
+
+        // Sum() => gets the summation of numbers in a sequence 
+        int[] arr = new int[] {1,2,3,4,5,6,7,8,9 };
+        int sum = arr.Sum();
+        Console.WriteLine(sum);
+        // Sum(expression) => returns the sum of numbers after condition
+        int sum2 = arr.Sum(s=> s%2);
+        Console.WriteLine(sum2);
+
+
+    }
+
 
 
 }
